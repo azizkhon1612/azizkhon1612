@@ -9,7 +9,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, C++ and C# language related problems. 
 - 📫 How to reach me: 
 <code>
-https://www.facebook.com/profile.php?id=100007670862363
+<a href="https://www.facebook.com/profile.php?id=100007670862363">
+<img  width="10%" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png">
+</a>
 -Email: mamatov717@gmail.com
 </code>
 
