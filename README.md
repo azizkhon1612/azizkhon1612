@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqZhkkwHzRtzkzzJTpQdCHLMwWnrNWJtKdmpXLGGtZsBmjJRsrwNRLDHvCfXHgBLLMVBZg">
 <img  width="3%" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/azizkhon1612)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
