@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/profile.php?id=100007670862363">
 <img  width="5%" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png"></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqZhkkwHzRtzkzzJTpQdCHLMwWnrNWJtKdmpXLGGtZsBmjJRsrwNRLDHvCfXHgBLLMVBZg">
-<img  width="5%" src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg"></a>
+<img  width="5%" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"></a>
 <br>
 
 
