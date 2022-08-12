@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 
 <a href="https://www.facebook.com/profile.php?id=100007670862363">
-<img  width="5%" height="1%"src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png"></a>
+<img  width="2.5%" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png"></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqZhkkwHzRtzkzzJTpQdCHLMwWnrNWJtKdmpXLGGtZsBmjJRsrwNRLDHvCfXHgBLLMVBZg">
-<img  width="5%" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"></a>
+<img  width="2.5%" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"></a>
 <br>
 
 
