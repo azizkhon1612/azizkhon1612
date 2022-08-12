@@ -12,10 +12,7 @@ Here are some ideas to get you started:
 <img  margin-left="3%" width="3%" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png"></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqZhkkwHzRtzkzzJTpQdCHLMwWnrNWJtKdmpXLGGtZsBmjJRsrwNRLDHvCfXHgBLLMVBZg">
 <img  width="3%" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"></a>
-
-
-
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
