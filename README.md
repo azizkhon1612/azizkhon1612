@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 -Facebook: https://www.facebook.com/profile.php?id=100007670862363
 -Email: mamatov717@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 -->
