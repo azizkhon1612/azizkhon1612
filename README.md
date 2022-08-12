@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, C++ and C# language related problems. 
 - 📫 How to reach me: 
 <code>
-
--Facebook: https://www.facebook.com/profile.php?id=100007670862363
+https://www.facebook.com/profile.php?id=100007670862363
 -Email: mamatov717@gmail.com
 </code>
 
