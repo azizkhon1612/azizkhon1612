@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Java, C++ related projects.**
 
-- 🌱 I’m currently learning **Android Studio and Flutter.**
+- 🌱 I’m currently improving my skills on **Android Studio and Flutter.**
 
 - 💬 Ask me about **Java, C++ and C# language related problems.**
 
