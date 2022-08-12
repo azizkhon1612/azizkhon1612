@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 By Facebook: https://www.facebook.com/profile.php?id=100007670862363
 By email: mamatov717@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
